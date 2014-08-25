@@ -19,7 +19,8 @@
   "devDependencies": {
     "chai": "~1.8.1",
     "jshint": "~2.3.0",
-    "mocha": "~1.15.1"
+    "mocha": "~1.15.1",
+    "less": "^1.7.3"
   },
   "license": "Apache License v2.0",
   "publishConfig": {
