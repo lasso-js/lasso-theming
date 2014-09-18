@@ -27,5 +27,5 @@
         "registry": "https://registry.npmjs.org/"
     },
     "main": "./raptor-optimizer-theming",
-    "version": "1.0.0-beta"
+    "version": "1.0.1-beta"
 }
