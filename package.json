@@ -1,9 +1,9 @@
 {
-    "name": "raptor-optimizer-theming",
+    "name": "optimizer-theming",
     "description": "Module to support theming via Raptor Optimizer and LESS",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raptorjs3/raptor-optimizer-theming.git"
+        "url": "https://github.com/raptorjs3/optimizer-theming.git"
     },
     "scripts": {
         "test": "node_modules/.bin/jshint lib/"
@@ -26,6 +26,6 @@
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
-    "main": "./raptor-optimizer-theming",
-    "version": "1.0.2-beta"
+    "main": "./optimizer-theming-plugin",
+    "version": "1.1.0"
 }

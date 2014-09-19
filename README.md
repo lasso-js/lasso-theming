@@ -1,2 +1,2 @@
-raptor-optimizer-theming
+optimizer-theming
 ========================
