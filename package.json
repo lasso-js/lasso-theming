@@ -11,10 +11,10 @@
     "author": "Phillip Gates-Idem <phillip.idem@gmail.com>",
     "maintainers": "Phillip Gates-Idem <phillip.idem@gmail.com>",
     "dependencies": {
-        "raptor-async": "^1.0.0-beta",
-        "raptor-loader": "^1.0.0-beta",
-        "raptor-logging": "^1.0.0-beta",
-        "raptor-util": "^1.0.0-beta"
+        "raptor-async": "^1.0.0",
+        "raptor-loader": "^1.0.0",
+        "raptor-logging": "^1.0.0",
+        "raptor-util": "^1.0.0"
     },
     "devDependencies": {
         "chai": "~1.8.1",
