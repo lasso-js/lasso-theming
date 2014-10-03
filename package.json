@@ -3,7 +3,7 @@
     "description": "Module to support theming via Raptor Optimizer and LESS",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raptorjs3/optimizer-theming.git"
+        "url": "https://github.com/raptorjs/optimizer-theming.git"
     },
     "scripts": {
         "test": "node_modules/.bin/jshint lib/"
