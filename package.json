@@ -27,5 +27,5 @@
         "registry": "https://registry.npmjs.org/"
     },
     "main": "./optimizer-theming-plugin",
-    "version": "1.1.2"
+    "version": "1.1.3"
 }
