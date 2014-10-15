@@ -1,8 +1,6 @@
 var themedPrefixRegex = /^(themed|theme-import):[ ]*(.*)$/;
 
 module.exports = function(optimizer, config) {
-    //optimizer.dependencies.registerPackageType('theming', require('./dependency-theming')(config));
-    
     optimizer.dependencies.registerStyleSheetType('theme', require('./lib/dependency-theme')(config));
 
     // a theme import is an import that gets included before all themed resources
