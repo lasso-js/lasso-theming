@@ -35,5 +35,6 @@
     "white": false,
     "eqeqeq": false,
     "latedef": true,
-    "sub": true
+    "sub": true,
+    "eqnull": true
 }
