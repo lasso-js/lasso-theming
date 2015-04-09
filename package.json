@@ -3,7 +3,7 @@
     "description": "Module to support theming via Lasso.js and LESS",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raptorjs/lasso-theming.git"
+        "url": "https://github.com/lasso-js/lasso-theming.git"
     },
     "scripts": {
         "test": "node_modules/.bin/jshint lib/"
