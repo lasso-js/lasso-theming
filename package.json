@@ -1,9 +1,9 @@
 {
-    "name": "optimizer-theming",
+    "name": "lasso-theming",
     "description": "Module to support theming via Raptor Optimizer and LESS",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raptorjs/optimizer-theming.git"
+        "url": "https://github.com/raptorjs/lasso-theming.git"
     },
     "scripts": {
         "test": "node_modules/.bin/jshint lib/"
@@ -26,6 +26,6 @@
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
-    "main": "./optimizer-theming-plugin",
+    "main": "./lasso-theming-plugin",
     "version": "1.1.8"
 }
