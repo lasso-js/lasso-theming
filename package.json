@@ -1,6 +1,6 @@
 {
     "name": "lasso-theming",
-    "description": "Module to support theming via Raptor Optimizer and LESS",
+    "description": "Module to support theming via Lasso.js and LESS",
     "repository": {
         "type": "git",
         "url": "https://github.com/raptorjs/lasso-theming.git"
